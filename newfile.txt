@@ -1,1 +1,3 @@
-this is new text file
+
+this is new text file from developer1
+my new file from developer2
