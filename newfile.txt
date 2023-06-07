@@ -1,9 +1,4 @@
 
 this is new text file from developer1
-my new file from developer2
-<<<<<<< HEAD
-another file added from dev1
-=======
-created new branch from dev 1
->>>>>>> c8dbe7c878b8e156d70c58acc76bcee7e0529345
-new file aded
+files has been deleted
+
